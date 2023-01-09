@@ -1,0 +1,22 @@
+[
+    {
+      "fullName": "David Greenhouse",
+      "email": "dgreenhouse96@gmail.com",
+      "password": "helloWorld123"
+    },
+    {
+      "fullName": "Kyle Klonot",
+      "email": "donut333@gmail.com",
+      "password": "iluvdonuts22"
+    },
+    {
+      "fullName": "Bob Boberino",
+      "email": "bobinibobbers@gmail.com",
+      "password": "bobthebuilder909"
+    },
+    {
+      "fullName": "Ryan Ryans",
+      "email": "ryans2121212@gmail.com",
+      "password": "ryanryansryan"
+    }
+  ]
